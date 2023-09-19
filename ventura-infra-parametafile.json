@@ -81,7 +81,7 @@
     },
     {
         "ParameterKey": "VenturaProdWebServer1KeyNamePara",
-        "ParameterValue": "work-mac-os"
+        "ParameterValue": "cicd"
     },
     {
         "ParameterKey": "VenturaProdWebServer2azPara",
@@ -97,7 +97,7 @@
     },
     {
         "ParameterKey": "VenturaProdWebServer2KeyNamePara",
-        "ParameterValue": "work-mac-os"
+        "ParameterValue": "cicd"
     },
     {
         "ParameterKey": "VenturaProdAppServer1azPara",
@@ -113,7 +113,7 @@
     },
     {
         "ParameterKey": "VenturaProdAppServer1KeyNamePara",
-        "ParameterValue": "work-mac-os"
+        "ParameterValue": "cicd"
     },
     {
         "ParameterKey": "VenturaProdAppServer2azPara",
@@ -129,7 +129,7 @@
     },
     {
         "ParameterKey": "VenturaProdAppServer2KeyNamePara",
-        "ParameterValue": "work-mac-os"
+        "ParameterValue": "cicd"
     },
     {
         "ParameterKey": "VenturaProdDBInstanceAllocatedStoragePara",
